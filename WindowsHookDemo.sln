@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WindowsHookDemo", "WindowsHookDemo\WindowsHookDemo.vbproj", "{28F1AFAD-E4C1-4D47-8F41-13E96C6C9CA7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{80695036-6AC4-4E04-BB9B-9051FE86F205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28F1AFAD-E4C1-4D47-8F41-13E96C6C9CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F1AFAD-E4C1-4D47-8F41-13E96C6C9CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F1AFAD-E4C1-4D47-8F41-13E96C6C9CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F1AFAD-E4C1-4D47-8F41-13E96C6C9CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80695036-6AC4-4E04-BB9B-9051FE86F205}.Debug|Any CPU.ActiveCfg = Debug
+		{80695036-6AC4-4E04-BB9B-9051FE86F205}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
